@@ -4,6 +4,9 @@ Uncommon Magic Item - Plate Of Knight's Fellowship
 
 3d4 x 25 gold (additional)
 
+Argehart (dad)
+Abada (mom)
+
 ## Current Events
 
 The first few weeks passed in lonely silence, until one night you were 'ambushed' (challenged as clan rites dictate) by a clansman. With nothing left to lose, you fought fiercely and won. Sending the challenger away as duels were never to the death; honor forbade it.

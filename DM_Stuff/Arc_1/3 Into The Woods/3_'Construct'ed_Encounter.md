@@ -34,11 +34,11 @@ Green Aura - Sliver of Parox Orthian
 
 **Beau**
 
-DC 10 - *PASS*: You feel the connection to the energy in the sliver, it is the same feel as the magic that holds your own form together. *FAIL*: Faint green energy feels familiar but without time to study you are currently unsure. 
+DC 10 - *PASS*: You feel the connection to the energy in the sliver, it is the same feel as the magic that holds your own form together. *FAIL*: Faint green energy feels familiar but without time to study you are currently unsure.
 
 **Xander**
 
-DC 15 - *PASS*: This sliver seems to be strikingly similar to what is uncommonly known to power the Enforcers. *FAIL*: This seems closer to the accounts you’re familiar with of puppeteering a being, rather than true necrotic undeath.
+DC 10 - *PASS*: This sliver seems to be strikingly similar to what is uncommonly known to power the Enforcers. *FAIL*: This seems closer to the accounts you’re familiar with of puppeteering a being, rather than true necrotic undeath.
 
 **Grondar** & **Giri** only able to percieve shiny rock
 
