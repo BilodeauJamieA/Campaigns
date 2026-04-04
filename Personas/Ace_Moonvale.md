@@ -1,22 +1,19 @@
-**Name**: Ace Moonvale
+---
+parent: Majeh
+title: Ace Moonvale
+nav_order: 3
+---
 
-**Race**: Half-Elf
+# Ace Moonvale
 
-**Gender**: Male
+| Race | Gender | Class |
+| :---: | :---: | :---: |
+| Half-Elf | Male | Lower Noble |
 
-**Class**: Lower Noble
 
-**Description**: 
-
-- 30 years old 
-
-- 6'0" 
-
-- Lanky and soft
-
-- Green Eyes
-
-- Flowing Golden Hair
+| Age | Height | Physique | Eyes | Hair |
+| :---: | :---: | :---: | :---: | :---: |
+| 30 | 6'0" | Lanky and soft | Green | Flowing Golden |
 
 **Personality**: 
 

@@ -4,25 +4,16 @@ title: Majeh LName
 nav_order: 1
 ---
 
-**Name**: Majeh
+# Majeh
 
-**Race**: Human
+| Race | Gender | Class |
+| :---: | :---: | :---: |
+| Human | Male | Rogue |
 
-**Gender**: Male
 
-**Class**: Rogue
-
-**Description**: 
-
-- 22 years old 
-
-- 5'7" 
-
-- Slender frame
-
-- Gray Eyes
-
-- Short Brown Hair
+| Age | Height | Physique | Eyes | Hair |
+| :---: | :---: | :---: | :---: | :---: |
+| 23 | 5'7" | Lean, almost slender | Gray | Short Brown |
 
 **Personality**: 
 

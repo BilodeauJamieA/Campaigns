@@ -4,25 +4,16 @@ title: Oliver Dragoon
 nav_order: 2
 ---
 
-**Name**: Oliver Dragoon
+# Oliver Dragoon
 
-**Race**: Human
+| Race | Gender | Class |
+| :---: | :---: | :---: |
+| Human | Male | Fighter |
 
-**Gender**: Male
 
-**Class**: Fighter
-
-**Description**: 
-
-- 50 years old 
-
-- 6'2" 
-
-- Muscular, Broad Shoulders
-
-- Fierce Dark Eyes
-
-- Long Jet Black Hair
+| Age | Height | Physique | Eyes | Hair |
+| :---: | :---: | :---: | :---: | :---: |
+| 52 | 6'2" | Muscular, Broad Shoulders | Fierce Dark, Almost Black | Long Jet Black |
 
 **Personality**: 
 

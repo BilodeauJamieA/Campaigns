@@ -1,22 +1,21 @@
-**Name**: Aurora, Voice of the Dawn (Doesn't remember last name, only title)
+---
+parent: Majeh
+title: Aurora
+nav_order: 4
+---
 
-**Race**: High Elf
+# Aurora, Voice of the Dawn 
 
-**Gender**: Female
+**Notes**: Doesn't remember last name, only title
 
-**Class**: Bard
+| Race | Gender | Class |
+| :---: | :---: | :---: |
+| High Elf | Female | Bard |
 
-**Description**: 
 
-- 9 Years Old
-
-- 3'8" 
-
-- Small but energetic/spry
-
-- Hazel Eyes that seem to change color in the light
-
-- Flowing Golden Curls
+| Age | Height | Physique | Eyes | Hair |
+| :---: | :---: | :---: | :---: | :---: |
+| 9 | 3'8" | Small but energetic/spry | Hazel Eyes that seem to change color in the light | Flowing Golden Curls |
 
 **Personality**: 
 
