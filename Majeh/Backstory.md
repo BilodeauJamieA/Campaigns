@@ -8,27 +8,27 @@ nav_order: 1
 
 <details>
 
-<summary>Faction</summary> <br>
+<summary>Faction</summary>
 
 Enforcers (Resistance) - He works for the Resistance as an undercover agent in the Enforcers.
 
-</details> <br>
+</details>
 
 <details>
 
-<summary>Desire</summary> <br>
+<summary>Desire</summary>
 
 He wishes to finally die properly, ending the cycle of reincarnation.
 
-</details> <br>
+</details>
 
 <details>
 
-<summary>Final Memory</summary> <br>
+<summary>Final Memory</summary>
 
 Last thing I was doing would be coming back to my barracks/bunk from a training session with recruits.
 
-</details> <br>
+</details>
 
 ## Overview
 
