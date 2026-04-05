@@ -1,6 +1,6 @@
 ---
 parent: Personas
-title: Majeh LName
+title: Majeh Remmington
 nav_order: 1
 ---
 
