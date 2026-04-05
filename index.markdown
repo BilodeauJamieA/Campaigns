@@ -1,12 +1,12 @@
 ---
-title: Majeh Remmington
+title: Majeh Remington
 layout: home
 nav_order: 1
 description: "Who Am I"
 permalink: /
 ---
 
-# Majeh Remmington 
+# Majeh Remington 
 
 <img src="./Majeh.png" alt="Majeh" width="400"/>
 

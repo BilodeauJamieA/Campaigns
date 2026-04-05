@@ -1,10 +1,10 @@
 ---
 parent: Personas
-title: Majeh Remmington
+title: Majeh Remington
 nav_order: 1
 ---
 
-# Majeh
+# Majeh Remington
 
 | Race | Gender | Class |
 | :---: | :---: | :---: |
