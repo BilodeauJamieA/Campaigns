@@ -1,6 +1,6 @@
 ---
-parent: Majeh
-title: Majeh Remington (char)
+parent: Colin Campaign
+title: Majeh Remington
 nav_order: 1
 ---
 

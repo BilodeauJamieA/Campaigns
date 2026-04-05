@@ -1,5 +1,5 @@
 ---
-parent: Majeh
+parent: Colin Campaign
 title: Personas
 nav_order: 2
 ---

@@ -1,5 +1,5 @@
 ---
-parent: Majeh
+parent: Colin Campaign
 title: Triton
 nav_order: 3
 ---

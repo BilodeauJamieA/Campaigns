@@ -1,5 +1,5 @@
 ---
-parent: Majeh Remington (char)
+parent: Majeh Remington
 title: Incarnations
 nav_order: 3
 ---
