@@ -1,7 +1,7 @@
 ---
 parent: Majeh
 title: Incarnations
-nav_order: 1
+nav_order: 2
 ---
 
 # Incarnations

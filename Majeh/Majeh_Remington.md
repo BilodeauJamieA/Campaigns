@@ -12,4 +12,4 @@ nav_order: 1
 
 **Class**: Rogue
 
-<img src="./Majeh.png" alt="Majeh" width="800"/>
+<img src="./Majeh.png" alt="Majeh" width="300"/>
