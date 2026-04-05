@@ -1,6 +1,6 @@
 ---
 parent: Colin Campaign
-title: Majeh Remington
+title: Majeh
 nav_order: 1
 ---
 

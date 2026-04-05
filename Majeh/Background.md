@@ -1,7 +1,7 @@
 ---
-parent: Majeh Remington
-title: Incarnations
-nav_order: 3
+parent: Majeh
+title: Background
+nav_order: 2
 ---
 
 # Background / Story

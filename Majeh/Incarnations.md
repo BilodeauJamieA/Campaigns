@@ -1,7 +1,7 @@
 ---
-parent: Majeh Remington
+parent: Majeh
 title: Incarnations
-nav_order: 2
+nav_order: 1
 ---
 
 # Incarnations
