@@ -1,5 +1,5 @@
 ---
-parent: Majeh Remington
+parent: Majeh
 title: Personas
 nav_order: 2
 ---

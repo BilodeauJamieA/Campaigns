@@ -1,5 +1,5 @@
 ---
-title: Majeh Remington
+title: Majeh
 layout: home
 nav_order: 1
 description: "Who Am I"
