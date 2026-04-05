@@ -1,5 +1,5 @@
 ---
-parent: Majeh
+parent: Personas
 title: Aurora
 nav_order: 4
 ---

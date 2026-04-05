@@ -1,5 +1,5 @@
 ---
-parent: Majeh
+parent: Personas
 title: Ace Moonvale
 nav_order: 3
 ---

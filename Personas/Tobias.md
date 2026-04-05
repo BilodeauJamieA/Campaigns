@@ -1,7 +1,7 @@
 ---
 parent: Personas
 title: Tobias
-nav_order: 2
+nav_order: 6
 ---
 
 # Alfred Jenkins

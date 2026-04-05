@@ -1,5 +1,5 @@
 ---
-parent: Majeh
+parent: Personas
 title: Majeh LName
 nav_order: 1
 ---
