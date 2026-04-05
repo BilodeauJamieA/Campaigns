@@ -14,7 +14,7 @@ These are a few of the more prominant lives that Majeh has lived.  Most of these
 
 I don't remember much of my first life, only the feeling of wanting more.  I know I had a family, but its been forever since I could remember their names or faces.  Given time to reflect I don't think there was a single notable thing in that life I can remember.  That is, outside of the curse...
 
-I don't know how or why it happened, only bits and pieces about agreeing to it.  I remember the feeling of excitement and next thing I knew it had already begun...
+I don't know how or why it happened, only bits and pieces about a feeling that it was going to happen.  I remember the feeling of excitement and next thing I knew it had already begun...
 
 ## The Second Life
 
@@ -129,8 +129,8 @@ I remember bit's and pieces of other lives.  Some long, some short.  Hell I'm no
 
 **Class**: Rogue
 
-In somewhat ironic fashion my most recent incarnation is a changeling.  I'm not sure if it's hurting or helping my ever shifting memories, but it did make my changeling ability easy to understand and use at a young age.  I was born in the Gloamlands, not too far from Nocturne Hollow.  To keep their true selves unseen my tribe of changelings has a nesting grounds only we know of to give birth and care for newborns until they are able to shift and control at least one base form.
+In somewhat ironic fashion my most recent incarnation is a changeling.  I'm not sure if it's hurting or helping my ever shifting memories, but it did make my changeling ability easy to understand and use at a young age.  I was born north of Dregmar Port, not too far from Nocturne Hollow.  To keep their true selves unseen my tribe of changelings has a nesting grounds only we know of to give birth and care for newborns until they are able to shift and control at least one base form.
 
-Growing up in the Gloamlands, while dark, was actually on the more pleasant side of memories.  It was tough at times, but at least their was oppurtunity.  Something a lot of my lives never had.  Growing up I found myself still focused on finding a way to break this curse of reincarnation on myself.  That's probably what led me to the Resistance.  They needed people with skills I was becoming surprisingly good at, and I needed connections.  Information, rumors, heck even a whisper to give me hope I could break the cycle.
+Growing up in the Dregmar Port, while dark, was actually on the more pleasant side of memories.  It was tough at times, but at least there was oppurtunity.  Something a lot of my lives never had.  Growing up I found myself still focused on finding a way to break this curse of reincarnation on myself.  That's probably what led me to the Resistance.  They needed people with skills I was becoming surprisingly good at, and I needed connections.  Information, rumors, heck even a whisper to give me hope I could break the cycle.
 
 A few years later, and many hours of training, I find myself working at the Ironreach Bastion.  The Resistance wanted me there to get a better understanding of what was going in and out.  The Enforcers wanted me there to fill their ranks, my previous lives helped me learn quickly and follow orders as they expected. I wanted me there because after understanding this world better, I knew my only chance at information or something real lied in Caelestis.

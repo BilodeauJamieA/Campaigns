@@ -30,7 +30,7 @@ Different peoples tend to come from different parts of Triton, shaped by the env
 Fey creatures can be found in both light and shadow, though they differ greatly between regions.
 Factions of Triton
 
-## Castes
+## Factions
 
 Though the Aurelians rule from above, life below is shaped by those who endure it.
 
