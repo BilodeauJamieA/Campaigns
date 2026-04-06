@@ -64,4 +64,4 @@ I intend for it to be my last.
 
 [Incarnations](https://bilodeaujamiea.github.io/Triton/Majeh/Incarnations.html) - story details.
 
-[Personas](https://bilodeaujamiea.github.io/Triton/Majeh/Personas.html) - behavioral details.
+[Personas](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Personas.html) - behavioral details.

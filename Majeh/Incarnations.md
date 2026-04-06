@@ -6,7 +6,7 @@ nav_order: 2
 
 # Incarnations
 
-These are a few of the more prominant lives that Majeh has lived.  Most of these are directly tied to [personas](https://bilodeaujamiea.github.io/Triton/Personas.html) he uses.  
+These are a few of the more prominant lives that Majeh has lived.  Most of these are directly tied to [personas](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Personas.html) he uses.  
 
 ## Origins Of Self
 
