@@ -4,7 +4,7 @@ title: Drathok
 nav_order: 7
 ---
 
-# Alfred Jenkins
+# Drathok
 
 | Race | Gender | Class |
 | :---: | :---: | :---: |

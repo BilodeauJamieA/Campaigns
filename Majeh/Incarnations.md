@@ -18,11 +18,7 @@ I don't know how or why it happened, only bits and pieces about a feeling that i
 
 ## The Second Life
 
-**Name**: Oliver Dragoon
-
-**Race**: Human Male
-
-**Class**: Fighter
+**[Oliver Dragoon](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Oliver_Dragoon.html)** - Male | Human | Fighter
 
 My first reincarnation was every childs dream.  I was strong, untouchable, a hero.  I got everything I wanted and more.  I had zero regrets by the time age took me, simply awaiting my next adventure.
 
@@ -38,11 +34,7 @@ Notable Deeds
 
 ## Taking A Break
 
-**Name**: Ace Moonvale
-
-**Race**: Half-Elf Male
-
-**Class**: Lower Noble
+**[Ace Moonvale](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Ace_Moonvale.html)** - Male | Half-Elf | Lower Noble
 
 Born a minor noble in a stable court, my life was one of soft silks, warm halls, and evenings filled with music and wine. I learned diplomacy well enough to avoid trouble, but never sought power beyond what was easily within reach. Where others schemed and struggled, I simply… lived.
 
@@ -52,9 +44,7 @@ I knew I could have been more but for that life, I chose peace. Again I died old
 
 ## Silent Song
 
-**Race**: High Elf Female
-
-**Class**: Bard
+**[Aurora](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Aurora.html)** - Female | High Elf | Bard
 
 I was born with a talent that was unmistakenly remarkable even among my kind. As a child, my fingers found melodies without being taught, my voice carrying a clarity that made even elders pause. You didn’t just learn music, it was a part of me.
 
@@ -65,9 +55,7 @@ Unfortunately, It ended before it could become anything more. Running along a hi
 
 ## Frozen And Forgotten
 
-**Race**: Tiefling
-
-**Class**: Warlock
+**[Vex Aziel](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Vex_Aziel.html)** - Male | Tiefling | Warlock
 
 I born with a spark of power that drew attention from an early age. Magic came naturally, and my curiosity pushed me beyond the safety of home. I grew into an adventurer, traveling through cities and forests, uncovering secrets, and testing my skill against creatures both dangerous and wondrous.
 
@@ -77,9 +65,7 @@ Eventually by sheer dumb luck, the statue (me) was shattered, the pieces of ston
 
 ## Simple Servant
 
-**Race**: Halfling Male
-
-**Class**: Servant
+**[Tobias](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Tobias.html)** - Male | Halfling | Servant
 
 I was born and sold before I could speak. My masters weren't cruel as there were no beatings, no starvation, no overt malice. I was even fed, clothed, and given purpose. But it was never my own purpose.
 
@@ -87,7 +73,7 @@ My days were decided before they began. Where I stood, what I carried, when I sp
 
 ## Shortest Life
 
-**Race**: ??
+**Unknown** - ? | ? | ?
 
 The memory is brief, more sensation than story.
 
@@ -101,9 +87,7 @@ Her grip tightened… then loosened. Footsteps faded. And then there was only th
 
 ## Dark Rage
 
-**Race**: Drow Male
-
-**Class**: Barbarian
+**[Drathok](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Drathok.html)** - Male | Drow | Barbarian
 
 This life began in the Underdark, where I was born a drow male and therefore, lesser. My place was decided before I could speak: obedient, expendable, unseen.
 
@@ -112,6 +96,8 @@ At first I tried to survive by staying small but something in me remembered ther
 Until people saw me. Fear followed me from town to town. Doors shut. Hands reached for weapons. I had traded one set of chains for another—less visible, but just as binding.  This lead to the rage... a rage that would consume me.  I could never quite sate it, years passed until eventually the rage became too much and I picked a fight I didn't win.
 
 ## Not Born
+
+**Unknown** - Female | Gnome | Beggar
 
 This life began unlike any other, I later realized being reincarnated didn't mean always starting from scratch.
 
@@ -125,9 +111,7 @@ I remember bit's and pieces of other lives.  Some long, some short.  Hell I'm no
 
 ## Me, Myself, and I
 
-**Race**: Changeling
-
-**Class**: Rogue
+**[Majeh Remington](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Majeh_Remington.html)**: Male | Changeling | Rogue
 
 In somewhat ironic fashion my most recent incarnation is a changeling.  I'm not sure if it's hurting or helping my ever shifting memories, but it did make my changeling ability easy to understand and use at a young age.  I was born north of Dregmar Port, not too far from Nocturne Hollow.  To keep their true selves unseen my tribe of changelings has a nesting grounds only we know of to give birth and care for newborns until they are able to shift and control at least one base form.
 
