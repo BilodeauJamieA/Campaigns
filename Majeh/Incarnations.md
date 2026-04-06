@@ -111,7 +111,6 @@ I remember bit's and pieces of other lives.  Some long, some short.  Hell I'm no
 
 ## Me, Myself, and I
 
-| :---: | :---: | :---: | :---: |
 **[Majeh Remington](https://bilodeaujamiea.github.io/Triton/Majeh/Personas/Majeh_Remington.html)** | Male | Changeling | Rogue
 
 In somewhat ironic fashion my most recent incarnation is a changeling.  I'm not sure if it's hurting or helping my ever shifting memories, but it did make my changeling ability easy to understand and use at a young age.  I was born north of Dregmar Port, not too far from Nocturne Hollow.  To keep their true selves unseen my tribe of changelings has a nesting grounds only we know of to give birth and care for newborns until they are able to shift and control at least one base form.
