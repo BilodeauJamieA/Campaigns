@@ -4,6 +4,8 @@ title: Norville
 nav_order: 1
 ---
 
+[Character Sheet](https://docs.google.com/spreadsheets/d/1izvD1xMb9ye5g5Uk4hIbYGpoAhWvkDmi6JmvuC-6u3U/edit?gid=359784640#gid=359784640)
+
 <!-- 
 https://docs.google.com/spreadsheets/d/1izvD1xMb9ye5g5Uk4hIbYGpoAhWvkDmi6JmvuC-6u3U/edit?gid=359784640#gid=359784640
 
@@ -16,7 +18,7 @@ https://5e.tools/bestiary.html#sled%20dog_rot
 
 -->
 
-<img src="./_old//norville_and_bert.png" alt="Norville and Bert" width="200"/>
+<img src="./norville_and_bert.png" alt="Norville and Bert" width="200"/>
 
 Name: Norville Rogers
 
