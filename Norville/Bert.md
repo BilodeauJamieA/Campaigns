@@ -10,10 +10,16 @@ nav_order: 2
 |----------|-------|
 | **Size** | Medium |
 | **Type** | Beast |
-| **Armor Class** | 13 (Natural Armor) |
-| **Hit Points** | 11 (2d8 + 2) |
+| **Armor Class** | 14 |
+| **Hit Points** | 18 |
 | **Speed** | 40 ft. |
 
+<!-- 
+Life:
+Start - 18 (2d8+2 Max Start)
+
+Armor +1 from Dex (15->16 at lvl4)
+-->
 
 <!--
 | **Alignment** | Unaligned | 
@@ -27,7 +33,11 @@ nav_order: 2
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 15 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
+| 12 (+1) | 16 (+2) | 12 (+1) | 4 (-3) | 12 (+1) | 6 (-2) |
+
+<!-- 
+Lvl 4 Stat Inc = +1 Dex | +1 Int
+-->
 
 ## Skills
 

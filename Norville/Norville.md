@@ -17,12 +17,6 @@ https://5e.tools/bestiary.html#sled%20dog_rot
 
 Need to roll d10 hp (2,3,4)
 
-Let Levi choose "evidence" from past
-
-If lvl 4 - Pet needs:
-
-1 HD
-
 Ability Score 1 by 2 or 2 by 1
 
 -->
@@ -44,6 +38,15 @@ Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
 
 Spell attack modifier = your proficiency bonus + your Wisdom modifier 
 -->
+
+### Food
+
+See Chef Feat:
+| **Feature**        | **Requirement**                                               | **Uses / Amount**               | **Benefit**                                                                      |
+| ------------------ | ------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------- |
+| **Special Meal**   | During a **Short Rest** with ingredients and Cook's Utensils. | **6 creatures**                 | Creatures that eat the meal and spend at least **1 Hit Die** regain **+1d8 HP**. |
+| **Special Treats** | **1 hour of work** or at the end of a **Long Rest**.          | **2 treats** (last **8 hours**) | **Bonus Action:** Eat a treat to gain **2 temporary HP**.                        |
+
 
 ### Favored Enemy
 
@@ -141,3 +144,17 @@ your Favored Enemy feature, and of your
 Greater Favored Enemy feature when you gain 
 that feature at 6th level. It uses the favored 
 enemies you selected for those features.
+
+
+### Chef
+
+Time and effort spent mastering the culinary arts has paid off. You gain the following benefits:
+
+- +1 Wisdom
+
+- You gain proficiency with cook’s utensils if you don’t already have it.
+As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+
+    
+- With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+
