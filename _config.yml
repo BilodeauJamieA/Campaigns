@@ -1,4 +1,4 @@
-title: Xaleth
+title: World
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   All adventures must begin somewhere...
@@ -13,4 +13,4 @@ github_username:  BilodeauJamieA
 remote_theme: just-the-docs/just-the-docs
 
 exclude:
-  - DM_Stuff
+  - Norville/_old
