@@ -42,6 +42,7 @@ Spell attack modifier = your proficiency bonus + your Wisdom modifier
 ### Food
 
 See Chef Feat:
+
 | **Feature**        | **Requirement**                                               | **Uses / Amount**               | **Benefit**                                                                      |
 | ------------------ | ------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------- |
 | **Special Meal**   | During a **Short Rest** with ingredients and Cook's Utensils. | **6 creatures**                 | Creatures that eat the meal and spend at least **1 Hit Die** regain **+1d8 HP**. |
