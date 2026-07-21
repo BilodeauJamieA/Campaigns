@@ -1,7 +1,7 @@
 ---
 parent: Norville
 title: Backstory Response
-nav_order: 3
+nav_order: 2
 ---
 
 When word spread across the kingdoms that the banners of Weeping Marrow's Glen had been raised, Norville tried to ignore it. Armies were for heroes, knights, and veterans of great wars—not frightened woodsmen with too many ghosts at their back. He had spent years convincing himself that protecting lonely roads and forgotten villages was enough.

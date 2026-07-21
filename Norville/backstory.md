@@ -1,7 +1,7 @@
 ---
 parent: Norville
 title: Backstory
-nav_order: 2
+nav_order: 1
 ---
 
 For as long as anyone in the village could remember, Norville had been the lanky young man with an easy smile, an endless appetite, and an uncanny talent for finding trouble. He was raised by humble herbalists on the edge of civilization where dense forests met forgotten ruins. His parents taught him how to forage, identify edible plants, and respect the creatures that lived beyond the safety of the village. They often joked that while Norville had little talent for hard labor, he possessed a remarkable gift for making friends wherever he wandered. His closest friend was a large brown dog named Bert, who seemed just as interested in finding the next meal as his master. While other children dreamed of becoming knights, famous adventurers, or powerful wizards, Norville only wished for a quiet life filled with good food, loyal friends, and enough peace to avoid anything with claws or fangs.

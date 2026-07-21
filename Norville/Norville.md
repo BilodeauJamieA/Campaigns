@@ -4,8 +4,6 @@ title: Norville
 nav_order: 1
 ---
 
-[Character Sheet](https://docs.google.com/spreadsheets/d/1izvD1xMb9ye5g5Uk4hIbYGpoAhWvkDmi6JmvuC-6u3U/edit?gid=359784640#gid=359784640)
-
 <!-- 
 https://docs.google.com/spreadsheets/d/1izvD1xMb9ye5g5Uk4hIbYGpoAhWvkDmi6JmvuC-6u3U/edit?gid=359784640#gid=359784640
 
@@ -16,19 +14,6 @@ https://dnd5e.wikidot.com/background:investigator
 
 https://5e.tools/bestiary.html#sled%20dog_rot
 
--->
-
-<img src="./norville_and_bert.png" alt="Norville and Bert" width="200"/>
-
-Name: Norville Rogers
-
-Height: 6'3"
-
-Weight: 185 lbs
-
-Age: 56
-
----
 
 Need to roll d10 hp (2,3,4)
 
@@ -39,6 +24,26 @@ If lvl 4 - Pet needs:
 1 HD
 
 Ability Score 1 by 2 or 2 by 1
+
+-->
+
+## Norville Rogers
+
+[Character Sheet](https://docs.google.com/spreadsheets/d/1izvD1xMb9ye5g5Uk4hIbYGpoAhWvkDmi6JmvuC-6u3U/edit?gid=359784640#gid=359784640)
+
+<img src="./norville_and_bert.png" alt="Norville and Bert" width="400"/>
+
+### Spellcasting
+
+| DC Save | Attack Bonus | Spells Known | 1st | 2nd |
+| :-----: | :----------: |      :-:     | :-: | :-: |
+|    11   |      +3      |       3      |  3  |  0  |
+
+<!-- 
+Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Spell attack modifier = your proficiency bonus + your Wisdom modifier 
+-->
 
 ### Favored Enemy
 
@@ -87,18 +92,6 @@ ago they passed through the area.
 **Defense:** While you are wearing armor, you gain a +1 
 bonus to AC.
 
-### Spellcasting
-
-| DC Save | Attack Bonus | Spells Known | 1st | 2nd |
-| :-----: | :----------: |      :-:     | :-: | :-: |
-|    11   |      +3      |       3      |  3  |  0  |
-
-<!-- 
-Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
-
-Spell attack modifier = your proficiency bonus + your Wisdom modifier 
--->
-
 ### Primeval Awareness
 
 Beginning at 3rd level, your mastery of ranger 
@@ -134,9 +127,7 @@ If there are multiple groups of your favored
 enemies within range, you learn this information 
 for each group.
 
-### Ranger Conclave
-
-### Beast Conclave
+### Ranger (Beast) Conclave
 
 When you gain your animal companion at 3rd level, its 
 proficiency bonus matches yours at +2. As you gain 
@@ -150,26 +141,3 @@ your Favored Enemy feature, and of your
 Greater Favored Enemy feature when you gain 
 that feature at 6th level. It uses the favored 
 enemies you selected for those features.
-
-<!-- ---
-Stats
-+2 max? Dex because of armor
-con for life
-str for hit/dmg
-wis for spells
-
-![stats](stats.png)
-
---- -->
-
-<!-- **Warhammer** - 1d8 bludgeoning	2 lb.	Versatile (1d10) -->
-
-<!-- Fredricks old weapon (he used to use it for setting traps) -->
-<!-- 
-**Net** - https://roll20.net/compendium/dnd5e/Items:Net?expansion=34047#content
-
-**Shield** +2 AC
-
-**Scale mail** 14 + Dex modifier (max 2) — Disadvantage on stealth -->
-
-<!-- <img src="./norville_and_bert.png" alt="Norville and Bert" width="200"/> -->
