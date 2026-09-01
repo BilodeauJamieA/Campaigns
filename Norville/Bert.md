@@ -11,12 +11,15 @@ nav_order: 2
 | **Size** | Medium |
 | **Type** | Beast |
 | **Armor Class** | 14 |
-| **Hit Points** | 18 |
+| **Hit Points** | 34 |
 | **Speed** | 40 ft. |
 
 <!-- 
 Life:
 Start - 18 (2d8+2 Max Start)
+
++6 lvl 5
++8 lvl 6
 
 Armor +1 from Dex (15->16 at lvl4)
 -->
