@@ -14,11 +14,70 @@ https://dnd5e.wikidot.com/background:investigator
 
 https://5e.tools/bestiary.html#sled%20dog_rot
 
+4d8 (Cleric) - Same for Bert
 
-Need to roll d10 hp (2,3,4)
+Your Effective Caster Level: 7
 
-Ability Score 1 by 2 or 2 by 1
+Cantrips: 3 Known
+    https://dnd5e.wikidot.com/spell:guidance
+    https://dnd5e.wikidot.com/spell:spare-the-dying
+    https://dnd5e.wikidot.com/spell:virtue
+1st Level: 4 slots
+2nd Level: 3 slots
+3rd Level: 3 slots
+4th Level: 1 slot
 
+1st
+    https://dnd5e.wikidot.com/spell:purify-food-and-drink
+    https://dnd5e.wikidot.com/spell:sanctuary
+    https://dnd5e.wikidot.com/spell:healing-word
+    https://dnd5e.wikidot.com/spell:bless
+
+2nd
+    https://dnd5e.wikidot.com/spell:aid
+    https://dnd5e.wikidot.com/spell:zone-of-truth
+    https://dnd5e.wikidot.com/spell:prayer-of-healing
+    https://dnd5e.wikidot.com/spell:warding-bond
+
+Ranger Spells: As a 6th-level Ranger, you know 4 Ranger spells from the Ranger spell list. 
+    You can only choose 1st and 2nd-level Ranger spells.
+
+Cleric Spells: As a 4th-level Cleric, you can prepare a number of Cleric spells equal to your Wisdom modifier + 4. 
+    You can only choose 1st and 2nd-level Cleric spells.
+    You can have 6 spells prepared 
+
+FEAT - https://www.aidedd.org/dnd/dons.php?vo=shadow-touched
+
+Cleric Divine Domain
+
+https://dnd5e.wikidot.com/cleric:war
+    - At 1st level, you gain proficiency with martial weapons and heavy armor.
+
+# War Priest
+From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.
+
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+# Channel Divinity
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+
+Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+
+# Channel Divinity: Guided Strike
+
+Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+
+# Channel Divinity: Turn Undead
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+
+# Harness Divine Power (Channel Divinity - Optional)
+At 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 -->
 
 ## Norville Rogers
