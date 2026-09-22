@@ -11,7 +11,7 @@ nav_order: 2
 | **Size** | Medium |
 | **Type** | Beast |
 | **Armor Class** | 18 |
-| **Hit Points** | 34 |
+| **Hit Points** | 64 |
 | **Speed** | 40 ft. |
 
 <!-- 
@@ -20,6 +20,10 @@ Start - 18 (2d8+2 Max Start)
 
 +6 lvl 5
 +8 lvl 6
+5
+5
+8
+8
 
 13 base
 Armor +1 from Dex (15->16 at lvl4)
